@@ -12,11 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-<<<<<<< HEAD
 |2,0,1697095264,,"wq"
-=======
-|2,0,1697095008,,"wq"
->>>>>>> suma
 
 # Search String History (newest to oldest):
 
@@ -30,7 +26,6 @@
 
 # File marks:
 '0  1  10  ~/test
-<<<<<<< HEAD
 |4,48,1,10,1697095264,"~/test"
 '1  1  10  ~/test
 |4,49,1,10,1697094902,"~/test"
@@ -52,19 +47,6 @@
 |4,39,2,36,1697094881,"~/test"
 -'  2  36  ~/test
 |4,39,2,36,1697094881,"~/test"
-=======
-|4,48,1,10,1697095008,"~/test"
-'1  2  36  ~/test
-|4,49,2,36,1697093105,"~/test"
-'2  2  36  ~/test
-|4,50,2,36,1697093105,"~/test"
-
-# Jumplist (newest first):
--'  1  10  ~/test
-|4,39,1,10,1697095008,"~/test"
--'  2  36  ~/test
-|4,39,2,36,1697094993,"~/test"
->>>>>>> suma
 -'  2  36  ~/test
 |4,39,2,36,1697093105,"~/test"
 -'  1  0  ~/test
@@ -73,11 +55,7 @@
 # History of marks within files (newest to oldest):
 
 > ~/test
-<<<<<<< HEAD
 	*	1697095260	0
-=======
-	*	1697095006	0
->>>>>>> suma
 	"	1	10
 	^	1	11
 	.	1	10
