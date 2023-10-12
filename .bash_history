@@ -37,3 +37,19 @@ git log
 git remote add origin https://github.com/balagopisetti/git.git
 git push origin main
 git push origin master
+clear
+touch vaish
+mkdir bala
+cd bala
+touch file
+cat file
+cat >file
+ls
+cat file
+git clone https://github.com/balagopisetti/git.git
+cd ..
+git clone https://github.com/balagopisetti/git.git
+git add .
+git commit -m "bala"
+git push origin main
+git push origin master
